@@ -1,0 +1,14 @@
+C:\Users\k_dasaprakash\Tachion2018\Submission\bin\Debug\netcoreapp2.1\Submission.deps.json
+C:\Users\k_dasaprakash\Tachion2018\Submission\bin\Debug\netcoreapp2.1\Submission.runtimeconfig.json
+C:\Users\k_dasaprakash\Tachion2018\Submission\bin\Debug\netcoreapp2.1\Submission.runtimeconfig.dev.json
+C:\Users\k_dasaprakash\Tachion2018\Submission\bin\Debug\netcoreapp2.1\Submission.dll
+C:\Users\k_dasaprakash\Tachion2018\Submission\bin\Debug\netcoreapp2.1\Submission.pdb
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.csprojAssemblyReference.cache
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.csproj.CoreCompileInputs.cache
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.RazorAssemblyInfo.cache
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.RazorAssemblyInfo.cs
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.AssemblyInfoInputs.cache
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.AssemblyInfo.cs
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.RazorTargetAssemblyInfo.cache
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.dll
+C:\Users\k_dasaprakash\Tachion2018\Submission\obj\Debug\netcoreapp2.1\Submission.pdb

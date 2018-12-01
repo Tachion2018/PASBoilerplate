@@ -1,0 +1,14 @@
+C:\Users\k_dasaprakash\Tachion2018\Issue\bin\Debug\netcoreapp2.1\Issue.deps.json
+C:\Users\k_dasaprakash\Tachion2018\Issue\bin\Debug\netcoreapp2.1\Issue.runtimeconfig.json
+C:\Users\k_dasaprakash\Tachion2018\Issue\bin\Debug\netcoreapp2.1\Issue.runtimeconfig.dev.json
+C:\Users\k_dasaprakash\Tachion2018\Issue\bin\Debug\netcoreapp2.1\Issue.dll
+C:\Users\k_dasaprakash\Tachion2018\Issue\bin\Debug\netcoreapp2.1\Issue.pdb
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.csprojAssemblyReference.cache
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.csproj.CoreCompileInputs.cache
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.RazorAssemblyInfo.cache
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.RazorAssemblyInfo.cs
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.AssemblyInfoInputs.cache
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.AssemblyInfo.cs
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.RazorTargetAssemblyInfo.cache
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.dll
+C:\Users\k_dasaprakash\Tachion2018\Issue\obj\Debug\netcoreapp2.1\Issue.pdb
