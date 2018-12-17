@@ -1,0 +1,16 @@
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/bin/Debug/netcoreapp2.2/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/bin/Debug/netcoreapp2.2/DocumentDB.Spatial.Sql.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/bin/Debug/netcoreapp2.2/Submission.deps.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/bin/Debug/netcoreapp2.2/Submission.runtimeconfig.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/bin/Debug/netcoreapp2.2/Submission.runtimeconfig.dev.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/bin/Debug/netcoreapp2.2/Submission.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/bin/Debug/netcoreapp2.2/Submission.pdb
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.csprojAssemblyReference.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.csproj.CoreCompileInputs.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.RazorAssemblyInfo.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.RazorAssemblyInfo.cs
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.AssemblyInfoInputs.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.AssemblyInfo.cs
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.RazorTargetAssemblyInfo.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Submission/obj/Debug/netcoreapp2.2/Submission.pdb

@@ -1,0 +1,16 @@
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/bin/Debug/netcoreapp2.2/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/bin/Debug/netcoreapp2.2/DocumentDB.Spatial.Sql.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/bin/Debug/netcoreapp2.2/Quote.deps.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/bin/Debug/netcoreapp2.2/Quote.runtimeconfig.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/bin/Debug/netcoreapp2.2/Quote.runtimeconfig.dev.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/bin/Debug/netcoreapp2.2/Quote.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/bin/Debug/netcoreapp2.2/Quote.pdb
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.csprojAssemblyReference.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.csproj.CoreCompileInputs.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.RazorAssemblyInfo.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.RazorAssemblyInfo.cs
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.AssemblyInfoInputs.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.AssemblyInfo.cs
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.RazorTargetAssemblyInfo.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Quote/obj/Debug/netcoreapp2.2/Quote.pdb

@@ -1,0 +1,16 @@
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.csprojAssemblyReference.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.csproj.CoreCompileInputs.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.RazorAssemblyInfo.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.RazorAssemblyInfo.cs
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.AssemblyInfoInputs.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.AssemblyInfo.cs
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/bin/Debug/netcoreapp2.2/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/bin/Debug/netcoreapp2.2/DocumentDB.Spatial.Sql.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/bin/Debug/netcoreapp2.2/Registration.deps.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/bin/Debug/netcoreapp2.2/Registration.runtimeconfig.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/bin/Debug/netcoreapp2.2/Registration.runtimeconfig.dev.json
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/bin/Debug/netcoreapp2.2/Registration.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/bin/Debug/netcoreapp2.2/Registration.pdb
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.RazorTargetAssemblyInfo.cache
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.dll
+/Users/Das/Programming Playground/Microservices/PASBoilerplate/Registration/obj/Debug/netcoreapp2.2/Registration.pdb
