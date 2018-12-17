@@ -29,7 +29,9 @@ To get the UI up and running:
 To get the microservices up and running:
 
 > dotnet add package Microsoft.Azure.DocumentDB --version 2.2.0
+
 > dotnet build
+
 > dotnet run
 
 <h3>Create docker images</h3>
@@ -38,7 +40,7 @@ Dockerfile and .dockerignore files are added in each service. Install docker in 
 
 To create docker image:
 
-> docker build -t <servicename> .
+> docker build -t "your_servicename" .
 
 For example, for registration use:
 
@@ -46,7 +48,7 @@ For example, for registration use:
 
 To run docker image:
 
-> docker run --name <regapi> --rm -it -p 8000:80 <registration>
+> docker run --name someapi --rm -it -p 8000:80 registration
     
 You might face CORS issues. The code in Startup.cs will enable CORS. Remember to add the following package:
 
@@ -58,11 +60,11 @@ You might face CORS issues. The code in Startup.cs will enable CORS. Remember to
 
 Login to Azure ACR:
 
-> docker login --username <username> --password <password> <registryname>.azurecr.io
+> docker login --username /username/ --password /password/ /registryname/.azurecr.io
     
 Tag image:
 
-> docker tag <servicename> <registryname>.azurecr.io/<foldername>/<servicename>:v1
+> docker tag /servicename/ /registryname/.azurecr.io/foldername/servicename:v1
 
 For example:
 
@@ -70,13 +72,13 @@ For example:
 
 Push image:
 
-> docker push <registryname>.azurecr.io/<foldername>/<servicename>:v1
+> docker push registryname.azurecr.io/foldername/servicename:v1
     
 **From hereon, execute commands in Azure CLI**
     
 Check images in ACR:
 
-> az acr repository list --name <registryname> --output table
+> az acr repository list --name /registryname/ --output table
     
 <h3>Create Azure Kubernetes Cluster</h3>
 
@@ -88,11 +90,11 @@ This will return:
 
 ```json
 {
-    "appId": "<guid>",
-    "displayName": "<name>",
-    "name": "<name>",
-    "password": "<guid>",
-    "tenant": "<guid>"
+    "appId": "guid",
+    "displayName": "name",
+    "name": "name",
+    "password": "guid",
+    "tenant": "guid"
 }
 ```
 
@@ -110,7 +112,7 @@ Create AKS:
     
 Merge credentials of AKS cluster to the console:
 
-> az aks get-credentials --resource-group <resource_group_name> --name <cluster_name>
+> az aks get-credentials --resource-group /resource_group_name/ --name /cluster_name/
 
 Check the nodes assigned:
 
@@ -120,7 +122,7 @@ Check the nodes assigned:
 
 Let's create a secret for AKS to connect to ACR. To get the credentials, got to access key in ACR and get the username and password.
 
-> kubectl create secret docker-registry acr-auth --docker-server "<registryname>.azurecr.io" --docker-username "<username>" --docker-password "<password>" --docker-email "<email>"
+> kubectl create secret docker-registry acr-auth --docker-server "registryname.azurecr.io" --docker-username "username" --docker-password "password" --docker-email "email"
     
 Deploy the images to create a containerized service:
 
